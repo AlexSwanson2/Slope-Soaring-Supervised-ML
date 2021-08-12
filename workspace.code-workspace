@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "Joystick Simulation Testing",
+			"path": "."
+		}
+	],
+	"settings": {
+		"jupyter.jupyterServerType": "local"
+	}
+}
