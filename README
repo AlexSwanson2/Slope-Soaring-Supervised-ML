@@ -1,1 +1,5 @@
 Alex Swanson
+
+Important notes if you want to be able to run this:
+    1. Make sure to put in the correct vJoyInterface.dll from the vJoy SDK into pvjoy/ in order for the joystick control to work.
+    If you are using 64 bit python, you can use the 64bit dll, but it must match
