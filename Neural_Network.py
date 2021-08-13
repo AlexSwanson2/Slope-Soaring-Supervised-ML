@@ -1,4 +1,5 @@
 import numpy as np
+
 HIDDEN_LAYER_SIZE = 4
 
 def sigmoid(x): 
